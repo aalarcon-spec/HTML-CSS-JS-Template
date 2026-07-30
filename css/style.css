@@ -86,7 +86,7 @@ nav{
     padding:1rem;
 }
 .project:hover, #skills ul li:hover{
-    background: radial-gradient(skyblue,antiquewhite);
+    background: radial-gradient(skyblue,blue);
 }
 .project *{
     margin:1rem auto;
