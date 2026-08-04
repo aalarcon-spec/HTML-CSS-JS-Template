@@ -76,6 +76,7 @@ nav ul li,#skills ul li{
 }
 #hamburger-menu{
     display: block;
+    text-align: center;
 }
 nav{
     display: none;
